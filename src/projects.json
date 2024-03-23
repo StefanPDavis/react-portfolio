@@ -1,0 +1,29 @@
+[
+    {
+        "id": 3,
+        "show": true,
+        "title": "Project Blog About Blogging Projects",
+        "description": "a blog site with PayPal functionality that is built using React and is deployed using Render.",
+        "image": "/assets/images/project-3-screenshot.JPG",
+        "github": "https://github.com/philsloan/PBABP",
+        "deployed": "https://pbabp.onrender.com/"
+      },
+      {
+        "id": 2,
+        "show": true,
+        "title": "Daily Music Posts",
+        "description": "A social media site that uses mySQL to store data, Handlebars.js to build the pages, and is deployed using Heroku.",
+        "image": "/assets/images/project-2-screenshot.JPG",
+        "github": "https://github.com/hstephan23/daily-music-posts",
+        "deployed": "https://daily-music-posts-6e938fa20b09.herokuapp.com/"
+      },
+      {
+        "id": 1,
+        "show": true,
+        "title": "Project BART",
+        "description": "A voting system that demonstrates the functionality of using two APIs.",
+        "image": "/assets/images/project-1-screenshot.JPG",
+        "github": "https://github.com/StefanPDavis/project-bart",
+        "deployed": "https://stefanpdavis.github.io/project-bart/"
+      }
+]
